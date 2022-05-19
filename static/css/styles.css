@@ -1,0 +1,42 @@
+
+
+h1 {
+    text-align: center;
+}
+
+.container {
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+
+.box1 {
+    width: 100px;
+    height: 100px;
+    background-color: blue;
+}
+
+.box2 {
+    width: 100px;
+    height: 100px;
+    background-color: blue;
+}
+
+.box3 {
+    width: 100px;
+    height: 100px;
+    background-color: blue;
+}
+
+.box4 {
+    width: 100px;
+    height: 100px;
+    display: inline-block;
+}
+
+.box5 {
+    width: 100px;
+    height: 100px;
+    display: inline-block;
+}
